@@ -1,0 +1,36 @@
+
+
+[
+    {
+        "name": "更新",
+        "list": [
+        
+{
+                "name": "查看软件及接口更新!",
+                "url": "",
+                "icon": "http://china77.hongdus.com/bd.png",
+                "version": "."
+            }
+            
+            
+ 
+
+]},
+
+    {
+        "name": "更新",
+        "list": [
+        
+{
+                "name": "查看软件及接口更新!",
+                "url": "",
+                "icon": "http://china77.hongdus.com/bd.png",
+                "version": "."
+            }
+            
+            
+ 
+
+]}
+
+]

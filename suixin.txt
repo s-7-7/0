@@ -3,8 +3,8 @@
 { "url": "https://ghfast.top/https://raw.githubusercontent.com/s-7-7/0/refs/heads/0/dp.json", "name": "随心|低配版" },      
 { "url": "https://ghfast.top/https://raw.githubusercontent.com/s-7-7/0/refs/heads/0/sx.json", "name": "随心|精简版" },      
 { "url": "https://ghfast.top/https://raw.githubusercontent.com/s-7-7/0/refs/heads/0/wp.json", "name": "网盘|需扫码" },      
-{ "url": "https://9877.kstore.space/AnotherD/api.json", "name": "潇洒" },  
-{ "url": "http://肥猫.com", "name": "肥猫" }
+{ "url": "https://9877.kstore.space/ONE/one.json", "name": "潇洒" },
+{ "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米" }
 
 
 ]

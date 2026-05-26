@@ -2,10 +2,10 @@
 // 严禁将其用于任何商业用途，下载后请于 24 小时内删除，搜索结果均来自源站，本人不承担任何责任。
 
 import {Crypto, _} from 'assets://js/lib/cat.js';
-let host = 'https://bbys.app';
+let host = 'https://bubutv.top';
 let device_id = '';
 const pkg = 'com.sunshine.tv';
-const ver = '4';
+const ver = '6';
 const device_id_cache_key = 'com.sunshine.tv_3qys_B7k7Dt56Rn';
 
 async function init(cfg) {
@@ -165,7 +165,7 @@ async function getHeaders() {
         'x-device-id': device_id,
         'x-device-brand': 'vivo',
         'x-device-model': 'V2309A',
-        'x-update-id': '0245861b-2ebf-5524-389d-f983830651ec'
+        'x-update-id': '445671b4-1c8b-4872-8795-a1119689a791'
     };
 }
 

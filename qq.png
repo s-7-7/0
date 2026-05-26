@@ -11,7 +11,8 @@ var rule = {
     filter_url: 'sort={{fl.sort or 75}}&iyear={{fl.iyear}}&year={{fl.year}}&itype={{fl.type}}&ifeature={{fl.feature}}&iarea={{fl.area}}&itrailer={{fl.itrailer}}&gender={{fl.sex}}',
     
     // 解析接口配置
-    parse_url: ['https://fanghu.52xiaobai.cn/qq4k/qq4k.php?url='],
+    parse_url: ['https://fzl4k.xyz/jx.php?url=',
+          'http://yunhai.zhujiale.cn/api/?key=a29aa5d71a4e91b991294356b864e83e&url='],
 
     // 屏蔽地址
     blocked_urls: [        

@@ -11,8 +11,8 @@ var rule = {
     filter_url: 'sort={{fl.sort or 75}}&iyear={{fl.iyear}}&year={{fl.year}}&itype={{fl.type}}&ifeature={{fl.feature}}&iarea={{fl.area}}&itrailer={{fl.itrailer}}&gender={{fl.sex}}',
     
     // 解析接口配置
-    parse_url: ['https://fzl4k.xyz/jx.php?url=',
-          'http://yunhai.zhujiale.cn/api/?key=a29aa5d71a4e91b991294356b864e83e&url='],
+    parse_url: [
+          'https://niubi.69mini.com/jsonapi/?url='],
 
     // 屏蔽地址
     blocked_urls: [        
@@ -217,7 +217,7 @@ var rule = {
         });
 
         if (zp.length > 0) {
-            playFrom.push("播放错误可尝试重播");
+            playFrom.push("正片");
             playUrl.push(zp.map(it => it.title + "$" + it.url).join("#"));
         }
 

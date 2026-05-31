@@ -182,9 +182,9 @@ class Spider(Spider):
 
             # 加上简介前缀
             if vod_content:
-                vod_content = '【QQ交流群:212706934】\n' + vod_content
+                vod_content = '' + vod_content
             else:
-                vod_content = '【QQ交流群:212706934】'
+                vod_content = ''
 
             # ===== 播放源: 用 id 精确匹配 tab 和 playlist =====
 

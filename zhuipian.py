@@ -123,7 +123,7 @@ class Spider(Spider):
         video = {
             'vod_id': data.get('vod_id'), 'vod_name': data.get('vod_name'),
             'vod_pic': self._fix_pic(data.get('vod_pic')),
-            'vod_content': 'QQ交流群:212706934'+data.get('vod_content'), 'vod_play_from': "$$$".join(vod_play_from),
+            'vod_content': ''+data.get('vod_content'), 'vod_play_from': "$$$".join(vod_play_from),
             'vod_play_url': "$$$".join(vod_play_url)
         }
         return {'list': [video]}

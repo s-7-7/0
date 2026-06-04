@@ -12,7 +12,7 @@ var rule = {
     
     // 解析接口配置
     parse_url: [
-          'https://niubi.69mini.com/jsonapi/?url='],
+          'http://110.42.49.74:2222/parse/api.php?token=gqHqp22Z&url='],
 
     // 屏蔽地址
     blocked_urls: [        

@@ -1,7 +1,7 @@
 import {
     cheerio,
     模板
-} from "https://ghfast.top/https://raw.githubusercontent.com/s-7-7/0/refs/heads/0/drpy-core-lite.min.js";
+} from "https://ghproxy.net/raw.githubusercontent.com/s-7-7/0/refs/heads/0/drpy-core-lite.min.js";
 let vercode = typeof pdfl === "function" ? "drpy2.1" : "drpy2";
 const VERSION = vercode + " 3.9.52beta3 20250801";
 const UpdateInfo = [{

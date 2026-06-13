@@ -2,13 +2,13 @@
 
 [
     {
-        "name": "更新",
+        "name": "👉关注防失效",
         "list": [
         
 {
-                "name": "查看软件及接口更新!",
+                "name": "",
                 "url": "",
-                "icon": "http://china77.hongdus.com/bd.png",
+                "icon": "https://ghproxy.net/raw.githubusercontent.com/s-7-7/0/refs/heads/0/bd.png",
                 "version": "."
             }
             
@@ -18,13 +18,13 @@
 ]},
 
     {
-        "name": "更新",
+        "name": "👉关注防失效",
         "list": [
         
 {
-                "name": "查看软件及接口更新!",
+                "name": "",
                 "url": "",
-                "icon": "http://china77.hongdus.com/bd.png",
+                "icon": "https://ghproxy.net/raw.githubusercontent.com/s-7-7/0/refs/heads/0/bd.png",
                 "version": "."
             }
             

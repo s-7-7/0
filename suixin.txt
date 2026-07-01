@@ -4,7 +4,9 @@
 { "url": "https://ghproxy.net/raw.githubusercontent.com/s-7-7/0/refs/heads/0/sx.json", "name": "随心|精简版" },      
 { "url": "https://ghproxy.net/raw.githubusercontent.com/s-7-7/0/refs/heads/0/wp.json", "name": "网盘|需扫码" },      
 { "url": "https://9877.kstore.space/ONE/one.json", "name": "潇洒" },
-{ "url": "https://cnb.cool/xiaomi666888/devcontainer/-/git/raw/main/gege.json", "name": "小米" }
+{ "url": "https://cnb.cool/xiaomi666888/devcontainer/-/git/raw/main/gege.json", "name": "小米" },
+{ "url": "https://6800.kstore.vip/fish.json", "name": "摸鱼" },
+{ "url": "http://bobohome.ignorelist.com:20247/🐅嗷呜/", "name": "嗷呜" }
 
 
 

@@ -6,7 +6,7 @@
 { "url": "https://9877.kstore.space/ONE/one.json", "name": "潇洒" },
 { "url": "https://cnb.cool/xiaomi666888/devcontainer/-/git/raw/main/gege.json", "name": "小米" },
 { "url": "https://6800.kstore.vip/fish.json", "name": "摸鱼" },
-{ "url": "http://bobohome.ignorelist.com:20247/🐅嗷呜/", "name": "嗷呜" }
+{ "url": "https://9763.kstore.vip/aowu.json", "name": "嗷呜" }
 
 
 

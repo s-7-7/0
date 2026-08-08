@@ -1,7 +1,7 @@
 {
 "urls": [
 { "url": "https://ghproxy.net/raw.githubusercontent.com/s-7-7/0/refs/heads/0/dp.json", "name": "随心|低配版" },      
-{ "url": "https://ghproxy.net/raw.githubusercontent.com/s-7-7/0/refs/heads/0/sx.json", "name": "随心|精简版" },      
+{ "url": "https://ghproxy.net/raw.githubusercontent.com/s-7-7/0/refs/heads/0/SX.json", "name": "随心|精简版" },      
 { "url": "https://ghproxy.net/raw.githubusercontent.com/s-7-7/0/refs/heads/0/wp.json", "name": "网盘|需扫码" },      
 { "url": "https://9877.kstore.space/one.json", "name": "潇洒" },
 { "url": "https://cnb.cool/xiaomi666888/devcontainer/-/git/raw/main/gege.json", "name": "小米" },

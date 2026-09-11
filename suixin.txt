@@ -5,7 +5,6 @@
 { "url": "https://ghproxy.net/raw.githubusercontent.com/s-7-7/0/refs/heads/0/wp.json", "name": "网盘|需扫码" },      
 { "url": "https://9877.kstore.space/sun.json", "name": "潇洒" },
 { "url": "https://cnb.cool/xiaomi666888/devcontainer/-/git/raw/main/22gege22.json", "name": "小米" },
-{ "url": "https://6800.kstore.vip/fish.json", "name": "摸鱼" },
 { "url": "https://9763.kstore.vip/aowu.json", "name": "嗷呜" }
 
 
